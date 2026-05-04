@@ -265,6 +265,7 @@
                   <a class="nav-link active" aria-current="page" href="#">Results</a></li>
                    <a class="nav-link active" aria-current="page" href="#">Sports</a></li>
                     <a class="nav-link active" aria-current="page" href="contact.php">Contacts</a></li>
+                    <a class="nav-link active" aria-current="page" href="contact.php">About</a></li>
               
           
           </div>
